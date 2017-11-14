@@ -1,5 +1,7 @@
 <?php
 
+//Created by Derek Stead
+
 $firstname = "";
 $lastname = "";
 $sql = "";
